@@ -11,7 +11,7 @@ Modern computers predominantly use binary logic (0 and 1). But what if electroni
 This exploration investigates the concept of **Ternary Computing**, where information is represented using three states:
 
 - `0` — LOW / OFF
-- `1` — MIDDLE
+- `1` — MIDDLE////
 - `2` — HIGH / ON
 
 ## Areas of Exploration
