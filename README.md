@@ -20,8 +20,7 @@ This exploration investigates the concept of **Ternary Computing**, where inform
 - Multi-State Transistors and Voltage Levels
 - Voltage Thresholds and Noise Margins
 - Multi-Valued Logic Gates
-- Ternary CPU, GPU and Memory Architectures
-- Potential Advantages and Engineering Challenges
+
 
 ## Existing Technologies
 
@@ -32,7 +31,4 @@ Ternary computing has already been explored through projects like the Soviet **S
 **Can we design an entire computing architecture — CPUs, GPUs, memory and logic circuits — around ternary logic instead of binary?**
 
 ## Status
-
-`Conceptual Research · Learning · Exploration`
-
 *This project documents independent questions, ideas and research into the possibilities of computing beyond binary. No original hardware implementation has been developed yet.*
